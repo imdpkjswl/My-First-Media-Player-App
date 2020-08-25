@@ -1,4 +1,4 @@
-package com.iamdj.mymusicplayer;
+package com.iamdj.mymediaplayer;
 
 import androidx.appcompat.app.AppCompatActivity;
 
