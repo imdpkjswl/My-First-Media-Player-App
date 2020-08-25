@@ -108,7 +108,7 @@ public class MainActivity extends AppCompatActivity {
 
                 startActivity(new Intent(MainActivity.this, PlayerActivity.class)
                   .putExtra("songs", mysong).putExtra("songname",songName)
-                  .putExtra("pos", position));
+                  .putExtra("pos",position));
                 // Pass selected (song) item to another activity and also position of song in list.
             }
         });

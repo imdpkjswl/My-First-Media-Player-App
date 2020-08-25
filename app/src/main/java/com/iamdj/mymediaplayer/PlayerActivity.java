@@ -63,6 +63,10 @@ public class PlayerActivity extends AppCompatActivity {
                         e.printStackTrace();
                     }
                 }
+
+
+
+
             }
         };
 
@@ -165,11 +169,10 @@ public class PlayerActivity extends AppCompatActivity {
             }
         });
 
-
     }
 
-    // Perform action on go back
 
+    // Perform action on go back
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         if(item.getItemId() == android.R.id.home){

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyMedia Player</string>
+    <string name="msg">Search Song</string>
 </resources>
